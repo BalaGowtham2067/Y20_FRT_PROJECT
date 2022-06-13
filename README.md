@@ -26,7 +26,8 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 Project Link:https://gray-dune-0ef682510.1.azurestaticapps.net/
 
-# Sample images of the project :
+Sample images of the project :
+
 ![1](https://user-images.githubusercontent.com/98084204/173418720-118c61c3-30da-45be-a461-8cc88b80c1be.PNG)
 ![2](https://user-images.githubusercontent.com/98084204/173418729-5394884a-aa3a-4040-a9a8-13a887fefe98.png)
 ![3](https://user-images.githubusercontent.com/98084204/173418733-b0a95b32-53b7-4ad2-8889-bb861fd42fa5.png)
